@@ -2,7 +2,7 @@ import turtle
 
 ninja = turtle.Turtle()
 ninja.pencolor("red")
-ninja.speed(10)
+ninja.speed(0)
 
 def square(length, angle, corner):
     for i in range(corner):
@@ -18,4 +18,7 @@ def square(length, angle, corner):
         ninja.backward(length)
         ninja.right(angle)
 
-square(150, 90, 4)
+for i in range(45):
+    square(150, 90, 4)
+    ninja.right(4)
+turtle.done()
