@@ -20,3 +20,4 @@ def square(length, angle, corner):
 
 for i in range(4):
     square(300, 90, 4)
+turtle.done()
