@@ -1,0 +1,190 @@
+1. List Comprehensions 13:54
+
+2. String Conversion "__repr__" vs "__str__" 13:33
+
+3. Emulating "switch/case" Statements 11:21
+
+4. Implicit Returns 07:37
+
+5. Comparing Objects 06:04
+
+6. A Mysterious Dictionary Expression 06:29
+
+7. Function Argument Unpacking 08:43
+
+8. OOP Method Types Comparison 14:41
+
+9. *args and **kwargs 10:04
+
+10. Virtual Environments 08:05
+
+11. Writing Pythonic Loops 09:21
+
+12. Context Managers and the "with" Statement 12:06
+
+
+
+
+
+
+
+
+
+
+
+
+Bite	Tags	More info /
+forum
+✔️ Newbie Bite 01. Assigning Objects
+
+Welcome to our Newbie Bites, it's time to learn the basics of Python! If you are new to our platform …
+
+newbievariables
+Bite exercise descriptionconversation icon  1
+
+✔️ Newbie Bite 02. Basic Data Types
+
+If you really think about it, there are multiple different types of data that you can play with when coding. …
+
+data typesnewbie
+Bite exercise descriptionconversation icon  1
+
+☐ Newbie Bite 03. Basic Printing
+
+Before we dive too far into these objects, let's quickly look at how we print to the screen. Almost every …
+
+newbieprint
+Bite exercise description
+☐ Newbie Bite 04. Printing Objects
+
+Excellent! We know things! Now that we have data assigned to objects and we know how to print, let's print …
+
+newbieprint
+Bite exercise description
+☐ Newbie Bite 05. Basic Maths
+
+We're able to print integers. Now what? Yep, it's time for some maths! Wooo!
+
+mathnewbie
+Bite exercise description
+☐ Newbie Bite 06. Additional Maths
+
+Let's quickly cover off the rest of the math operators. We've had a look at addition so next we need …
+
+mathnewbie
+Bite exercise description
+☐ Newbie Bite 07. User Input
+
+Quite often as you make scripts and applications you're going to need to grab user input. One of the ways …
+
+inputnewbie
+Bite exercise description
+☐ Newbie Bite 08. String Manipulation
+
+There are times you'll need to manipulate the strings you've assigned to a variable. Case in point, when you're dealing …
+
+newbiestring manipulation
+Bite exercise description
+☐ Newbie Bite 09. Lists
+
+Next up on our Python journey we're going to dive into what a list is in Python.
+
+listnewbie
+Bite exercise description
+☐ Newbie Bite 10. Returning items by list index
+
+Lists are pretty awesome (both in Python and in real life, am I right?). They're also pretty fun to work …
+
+listnewbie
+Bite exercise description
+☐ Newbie Bite 11. Adding and Removing items from a list
+
+Now that we have our list, what if we decide we want to change it after it's been defined/created?
+
+listnewbie
+Bite exercise description
+☐ Newbie Bite 12. Dicts
+
+It's time to dive into the next data structure in Python: the Dictionary!
+
+dictlistnewbie
+
+Bite exercise description
+☐ Newbie Bite 13. Dict data retrieval methods
+
+Excellent! We know what a dict is and what it looks like! Now let's access the data stored inside?
+
+newbie
+Bite exercise description
+☐ Newbie Bite 14. Functions
+
+Here we go, the big one. Functions! This is where things really start to get fun!
+
+functionsnewbie
+Bite exercise description
+☐ Newbie Bite 15. Functions part II
+
+Functions can be kind of tricky to start off with so let's do a bit of practice.
+
+functionsnewbie
+Bite exercise description
+☐ Newbie Bite 16. Equals Operator
+
+In this quick bite we'll teach out about the equals operator.
+
+equalitynewbie
+Bite exercise description
+☐ Newbie Bite 17. If / else
+
+It's time to look at the amazing if statement! It's one of the most valuable bits of code in your …
+
+if/elsenewbie
+Bite exercise description
+☐ Newbie Bite 18. Truthiness
+
+One of the things we often need to check when we code is whether a condition is True or False. …
+
+newbietruthiness
+Bite exercise description
+☐ Newbie Bite 19. Less than and greater than
+
+We'll now take a look at usage of the "less than" < and "greater than" > operators.
+
+comparisonnewbie
+Bite exercise description
+☐ Newbie Bite 20. While loop
+
+The next challenge is to learn all about the while loop. Let's dive right in.
+
+newbiewhile
+Bite exercise description
+☐ Newbie Bite 21. Comments
+
+Time to look at one of the more useful aspects of programming: Comments!
+
+commentsnewbie
+Bite exercise description
+☐ Newbie Bite 22. For loops
+
+It's time to move on to a slightly more complex but brilliant loop: the for loop!
+
+loopingnewbie
+Bite exercise description
+☐ Newbie Bite 23. Looping through a dict
+
+While we've explained how for loops work, it's worth diving into how we use them with dictionaries.
+
+dictnewbie
+Bite exercise description
+☐ Newbie Bite 24. Tuples
+
+One data type we've yet to cover is the tuple. It's a special one so here we go.
+
+newbietuples
+Bite exercise description
+☐ Newbie Bite 25. Calling a function
+
+The last Bite! Let's actually use what we've created by learning how to actually call a function.
+
+functionsnewbie
+Bite exercise description

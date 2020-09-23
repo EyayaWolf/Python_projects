@@ -1,0 +1,49 @@
+Introduction
+ 01-intro.mov
+ 3 mins
+Installation
+ 02-install.mov
+ 5 mins
+ Pandas Overview.ipynb
+54.6 KB
+Jupyter
+ 03-jupyter.mov
+ 6 mins
+Teaser Overview
+ 04-teaser.mov
+ 20 mins
+Loading Data
+ 05-loading-data.mov
+ 6 mins
+Exploring Data
+ 06-view.mov
+ 16 mins
+Tweaking Data
+ 07-tweak.mov
+ 13 mins
+Statistics
+ 08-stats.mov
+ 13 mins
+Visualization
+ 09-plotting.mov
+ 16 mins
+Filtering Data
+ 10-filter.mov
+ 9 mins
+Filtering with .loc
+ 11-loc.mov
+ 6 mins
+Filtering with .iloc
+ 12-iloc.mov
+ 6 mins
+Dealing with Missing Data
+ 13-missing.mov
+ 13 mins
+Grouping and Pivoting
+ 14-grouping.mov
+ 15 mins
+Joining and Merging Data
+ 15-join.mov
+ 13 mins
+ 2004-PM2.5.csv
+205 KB

@@ -1,0 +1,81 @@
+Section 1: Immutable Data Structures
+6 Lessons 17m
+
+1. Functional Programming Course Overview 01:15
+
+2. What Is Functional Programming? 04:02
+
+3. Mutable Data Structures: Lists and Dictionaries 03:48
+
+4. Immutable Data Structures: namedtuple 03:39
+
+5. Danger Zone: Mixing Mutable and Immutable Data Structures 01:35
+
+6. Immutable Data Structures: Tuples 02:56
+
+Section 2: The filter() Function
+5 Lessons 13m
+
+1. The filter() Function: Overview 00:43
+
+2. What is the filter() Function? 03:17
+
+3. Storing Filtered Data in a Tuple 02:39
+
+4. Why Use the filter() Function? 03:46
+
+5. Filtering List Comprehensions 03:33
+
+Section 3: The map() Function
+5 Lessons 11m
+
+1. The map() Function: Overview 00:53
+
+2. What is the map() Function? 02:13
+
+3. How to Use the map() Function 04:25
+
+4. The map() Function vs Generator Expressions 02:28
+
+5. Why Use the map() Function? 01:50
+
+Section 4: The reduce() Function
+4 Lessons 16m
+
+1. The reduce() Function: Overview 01:33
+
+2. What Is the reduce() Function? 04:49
+
+3. Why Use the reduce() Function? 06:25
+
+4. Grouping Data With itertools.groupby() 03:20
+
+Section 5: Parallel Processing With multiprocessing
+7 Lessons 16m
+
+1. Parallel Processing With multiprocessing: Overview 00:48
+
+2. Multiprocessing Testbed Overview 03:40
+
+3. The multiprocessing Module 01:03
+
+4. Measuring Execution Time in the multiprocessing Testbed 02:07
+
+5. How to Create a multiprocessing.Pool() Object 01:40
+
+6. How to Use multiprocessing.Pool() 05:14
+
+7. Parallel Processing With multiprocessing: Conclusion 01:35
+
+Section 6: Parallel Processing With concurrent.futures
+5 Lessons 9m
+
+1. Parallel Processing With concurrent.futures: Overview 01:55
+
+2. The concurrent.futures Module 02:45
+
+3. How Functional Programing Makes Parallel Processing Simple 01:38
+
+4. concurrent.futures vs multiprocessing 01:06
+
+5. When to Use concurrent.futures or multiprocessing 02:24

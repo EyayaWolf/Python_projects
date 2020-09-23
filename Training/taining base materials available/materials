@@ -1,0 +1,289 @@
+TalkPython
+Ch 1. Welcome to the course
+
+Welcome!
+
+Programming is a superpower
+
+Why learn Python (over other languages)?
+
+Student prerequisite knowledge
+
+What will we cover?
+
+How do I get help?
+
+Meet your instructor: Michael Kennedy
+
+Ch 2. Course setup and requirements
+
+Installing and updating Python
+
+Checking for Python on Windows
+
+I do need to install Python, now what?
+
+Setting up an editor
+
+git the source code
+
+Ch 3. The big ideas of software development
+
+The big ideas
+
+Big idea: What is source code?
+
+Examples of code
+
+Big idea: How does code execute?
+
+Code execution diagram
+
+Source code vs. byte code
+
+Big idea: Algorithms
+
+Big idea: Designing an algorithm
+
+Formal algorithms
+
+Beginners and experts
+
+A conversation with Python beginners
+
+Ch 4. Writing your first lines of code
+
+Writing code intro
+
+Running the Python REPL on macOS
+
+Running the Python REPL on Windows
+
+Demo: Happy birthday to me
+
+Concept: Concept sections
+
+Concept: Variables and types
+
+Visualizing variables
+
+Visualizing mutable data types
+
+Using a built-in library
+
+Getting input from a user
+
+Practice time!
+
+Ch 5. Code that interacts with users
+
+Interactive code intro
+
+Our first interactive program
+
+Creating a project with PyCharm
+
+Determining the number of M&Ms
+
+Getting the guess
+
+Checking for a win
+
+Exit early on a win
+
+Using a debugger
+
+Concept: Conditional statements
+
+Concept: Truthiness
+
+Concept: Multiple conditions to test at once
+1:38
+Practice time!
+3:19
+Ch 6. Organizing and reusing code with functions
+55:31
+Intro to functions
+2:40
+02-intro-to-our-rocks
+2:16
+Demo: Starter Rock Paper Scissors
+6:17
+Checking for a win
+6:24
+Adding a computer opponent
+2:37
+Cleaning up Rock Paper Scissors with functions
+5:42
+Functions for play-game
+5:58
+A function for winning
+4:40
+Adding the best-of feature
+6:36
+Concept: A simple functions
+2:01
+Selecting the roll quickly
+6:42
+Concept: for-in loops
+1:55
+Practice time!
+1:43
+Ch 7. Cleaner code with common data structures
+32:50
+Introducing data structures
+0:58
+Our Rock Paper Scissors code has issues
+2:31
+Demo: Data structure basics (dicts, sets, lists)
+6:16
+Concept: Dictionaries
+1:48
+Demo: Better rules with dictionaries
+4:17
+Demo: Checking for winner with new rules
+5:24
+Improving win-tracking with dictionaries
+5:40
+Concept: Data structures simplify our code
+1:26
+Concept: Common data structures and when to use them
+3:16
+Practice time
+1:14
+Ch 8. Problem solving techniques for writing software
+1:01:49
+Getting started when you're lost
+2:00
+Some techniques for problem solving in programming
+5:38
+Our problem solving project
+1:18
+Demo: Divide and conquer in action
+3:44
+Demo: Create the board
+7:07
+Demo: Choose the active player
+3:38
+Demo: Play until someone wins
+2:46
+Demo: Show the board
+5:11
+Demo: Choose a location
+5:44
+Demo: Toggle active player
+2:43
+Demo: Find the winner, naive version
+9:35
+Demo: Find the winner, good version
+6:09
+Concept: Remember the debugger
+0:42
+Concept: Refactor as you go
+1:30
+Practice time
+4:04
+Ch 9. Reading and writing files in Python
+58:16
+01-file-intro
+3:19
+Max Q
+1:46
+Making the game extensible
+3:00
+Demo: Moving the rules to a file
+5:51
+Demo: Safer file handling
+2:37
+Demo: File location without assumed working directory
+3:29
+Demo: Extending the game
+5:00
+Concept: Reading JSON
+1:04
+Concept: Leader boards!
+0:44
+Demo: Saving wins
+6:14
+Demo: Displaying leaders
+6:38
+Concept: Saving JSON
+1:28
+Demo: Writing lines in a text file
+1:59
+Demo: Adding logging to Rock Paper Scissors
+4:29
+Demo: Writing lines to a text file
+6:07
+Concept: Appending a line to a text file
+1:26
+For real logging use a real framework
+1:14
+Practice exercises
+1:51
+Ch 10. Using external Python packages
+39:44
+01-external-packages-intro
+2:10
+02-introducing-pypi
+2:23
+03-adding-a-little-more-ui-to-rps
+1:26
+04-demo-creating-a-venv
+5:40
+05-requirements_txt
+2:48
+06-demo-adding-color-output
+7:34
+07-word-completion-basic-edition
+6:20
+08-word-completion-substring-edition
+9:07
+09-concept-external-packages-workflow
+1:15
+10-practice-exercises
+1:01
+Ch 11. Error handling
+23:22
+Introduction to Python's error handling
+1:40
+Where are the invalid numerals
+2:23
+Catching invalid numerals
+6:04
+Invalid file formats
+7:16
+Stepping through errors in the debugger
+3:08
+Concept: Python's exception handling
+1:26
+Practice time
+1:25
+Ch 12. Course conclusion
+13:23
+Conclusion
+0:29
+Review: Variables and types
+2:00
+Review: Conditional statements
+1:01
+Review: Functions
+1:43
+Review: Data structures
+2:19
+Review: Problem solving
+2:05
+Review: File I/O
+1:30
+Review: External packages
+0:57
+Review: git the source code
+0:24
+Time to get in the game
+0:55
+Ch 13. Appendix: Jupyter as your editor for this course
+3:37
+What are Jupyter notebooks
+1:54
+Setting up jupyter lab as your editor
+1:43

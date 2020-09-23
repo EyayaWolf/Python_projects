@@ -1,0 +1,372 @@
+What are microframeworks?
+2:38
+Building blocks of Flask
+3:31
+Building block: Views
+3:00
+Building block: Routes and URLs
+1:16
+Building block: Models
+1:49
+Building block: Dynamic HTML Templates
+2:28
+Get the back story
+0:59
+Ch 4. Your first Flask site
+20:14
+Introduction to creating a Flask website
+2:57
+Demo: CLI starter site
+5:55
+Concepts: CLI starter site
+3:00
+Demo: Creating the starter project PyCharm
+3:47
+Concept: Creating the starter project PyCharm
+1:25
+Project structure
+3:10
+Ch 5. Jinja2 templates
+44:11
+Template chapter introduction
+1:24
+Jinja2 template example
+2:30
+Create the PyPI site
+3:42
+Our first jinja template
+8:10
+Concept: Jinja2 templates
+1:42
+Layout: Motivation
+3:20
+Jinja2 autocomplete in PyCharm
+1:12
+Adding a simple nav element
+5:20
+Creating a common layout page
+5:08
+Better organization for your template files
+2:02
+Concepts: Common layout
+2:28
+Project structure with shared layout
+1:34
+Demo: @response a better render_template
+3:37
+Concept: @response a better render_template
+2:02
+Ch 6. Routing and URLs
+33:08
+Routing visualized
+3:52
+Demo: Routing, loading the project
+1:23
+Refactoring view methods with Flask blueprints
+9:12
+Concept: Refactoring view methods with Flask blueprints
+1:21
+Adding a constrained route
+3:42
+The account management routes
+2:59
+Concept: Create route from url
+1:28
+How to build a CMS in 8 minutes
+7:54
+Concept: Routing to add a custom CMS
+1:17
+Ch 7. Bootstrap and frontend CSS frameworks
+38:04
+What we'll cover
+0:53
+CSS Front-end framework survey
+2:02
+Introduction to using Bootstrap
+4:50
+Running in a real web server
+1:00
+Intro to grid layout
+2:53
+Responsive browser tools
+1:12
+Grid layout in action
+1:35
+Adding to the grid
+3:25
+Concept: Grid layout
+1:43
+Buttons and forms
+1:15
+Buttons and forms in action
+4:47
+Style the login form
+3:31
+Concept: Buttons and forms
+1:30
+Why Bootstrap themes are awesome
+1:43
+Bootstrap theme tour
+5:45
+Ch 8. Adding our design
+28:42
+Our site design
+3:14
+Home page HTML
+5:12
+The making of the hero
+5:22
+Stats slice
+3:20
+New releases
+3:48
+Adding the navigation
+3:49
+Final footer
+3:57
+Ch 9. Modeling data with SQLAlchemy classes
+54:50
+Introducing SQLAlchemy
+4:07
+Who uses SQLAlchemy?
+1:35
+Architecture
+2:14
+The database model
+3:10
+Modeling packages
+8:31
+SQLAlchemy model base class
+1:51
+Connecting to our 'database'
+6:01
+Creating tables
+6:26
+Indexes
+5:00
+The rest of the tables
+4:24
+Relationships
+7:16
+Concepts: Modeling
+4:15
+Ch 10. Using SQLAlchemy
+52:56
+Creating the basic insert script
+2:18
+Connecting to the database (again)
+1:36
+Setting package values
+1:33
+Saving the package to the db
+3:36
+Running the inserts
+2:34
+Adding type hints to the session factory
+1:20
+Inserting real PyPI data
+5:09
+Concept: Unit of work
+2:22
+Querying data: Home page
+5:55
+Querying data: Latest releases
+9:03
+Working with package details
+9:18
+Concept: Querying data
+4:03
+Concept: Ordering data
+0:44
+Concept: Database updates
+0:49
+Concept: Relationships
+1:59
+Concept: Inserting data
+0:37
+Ch 11. Database migrations with Alembic
+27:46
+Introducing database migrations
+3:47
+Getting started with Alembic
+2:32
+Our first change
+9:16
+More database changes
+5:28
+Concept: Getting started
+1:44
+Concept: Alembic - the manual version
+3:09
+Concept: auto-generating changes
+1:50
+Ch 12. User input and HTML forms
+49:19
+The basics of HTML input
+3:14
+GET-POST-Redirect pattern
+2:36
+Register for the site (getting started)
+3:13
+Registration form
+1:43
+A little design for the register form
+4:45
+Register POST action
+2:43
+Getting the submitted values
+5:08
+Creating the user
+6:59
+Login form
+1:08
+Login code
+3:20
+Creating a user session (cookies)
+7:16
+Navigation items based on user's session
+2:54
+One source of data
+4:20
+Ch 13. Client and server-side validation
+33:30
+The motivation for viewmodels
+2:50
+Viewmodel base class
+4:15
+Using a viewmodel
+3:18
+The register viewmodel
+10:24
+Concept: Viewmodel
+1:40
+Simplified view methods
+1:23
+Viewmodel data exchange
+1:44
+Server-side validation with Viewmodels
+1:36
+Client-side validation with HTML5
+4:54
+Concept: Client-side validation with HTML5
+1:26
+Ch 14. Testing web apps
+53:04
+Why write tests (web)
+2:09
+Special challenges of the web
+2:32
+3 types of web unit tests
+3:08
+Organizing your tests
+2:59
+Getting started with tests
+3:45
+Testing the register viewmodel
+5:49
+Avoiding the database call on register
+3:26
+Testing registration when inputs are invalid
+2:25
+Concept: Testing view models
+1:34
+Testing view methods
+5:27
+Concept Testing view methods
+3:47
+Integrated tests
+5:39
+The rest of the tests
+2:28
+Running tests outside of PyCharm
+2:10
+Concept: Testing the full web app
+1:02
+Pareto principle and testing with sitemaps
+4:44
+Ch 15. Deployment
+40:10
+Deployment overview and topology
+3:45
+02-creating-our-linux-server
+5:15
+The setup script and config files
+3:12
+Configure the server
+7:47
+Make the virtual environment always active
+1:44
+Setting up our code
+2:51
+Running under uWSGI
+3:28
+uWSGI as a service
+2:03
+Running in nginx
+3:29
+Adding SSL with Let's Encrypt
+3:57
+Concept: uWSGI
+1:20
+Concept: nginx
+1:19
+Ch 16. MongoDB edition
+42:08
+Introduction to the NoSQL version
+1:42
+Not a MongoDB course
+0:55
+How document databases work
+1:14
+Connecting to MongoDB
+4:55
+The user entity with mongoengine
+3:41
+Saving a user
+3:24
+The rest of the entities
+1:44
+Rewriting our queries
+6:00
+Fixing the login
+2:26
+Importing the data from SQL to Mongo
+3:21
+Home page cleanup
+4:51
+Package details cleanup
+3:31
+Concepts: MongoEngine and MongoDB
+4:24
+Ch 17. Course conclusion
+15:12
+You've done it!
+0:41
+Creating a new Flask app
+1:00
+Jinja2 templates and dynamic HTML
+1:43
+Layout pages
+0:57
+Routes
+1:35
+Themes
+0:44
+Querying data
+1:09
+Database migrations
+0:38
+GET-POST-Redirect
+1:16
+viewmodels
+1:29
+Testing web apps
+1:03
+Deployment
+1:18
+MongoDB edition
+0:54
+git the source code
+0:23
+Thanks and goodbye
+0:22
